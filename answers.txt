@@ -1,3 +1,6 @@
 Q1: Why might be consider using git?
 
 Answer: Git can help keep track of changes in code. This makes it easier to collaborate with others and allows programmers to revert to earlier versions of code if something stops working.
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can benefit environmental science by analyzing large datasets to monitor environmental changes. For example, predictive models can be used to forecast air pollution levels, helping cities implement measures to improve air quality.
