@@ -7,3 +7,6 @@ Answer: Data science can benefit environmental science by analyzing large datase
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will combine changes from one branch into another while preserving the commit histories from both branches. Rebasing instead rewrites the history commit-by-commit to create a linear path. In general rebasing results in a cleaner commit history but doesn't preserving the original branching.
+Q4: What skills do you hope to improve during this course?
+
+Answer: I would like to improve my skills in data processing with Python/Pandas in CMSC320. I am very interested in learning more about Machine Learning and I believe that building a strong foundation in Data Science will help me greatly. I am also pursuing a minor in Statistics, so I would like to apply my theoretical knowledge to real-world problems in this class.
