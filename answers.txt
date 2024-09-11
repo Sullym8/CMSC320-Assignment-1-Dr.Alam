@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git can help keep track of changes in code. This makes it easier to collaborate with others and allows programmers to revert to earlier versions of code if something stops working.
